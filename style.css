@@ -10,7 +10,6 @@
 body {
         font-size: 100%;
         background-color: whitesmoke;
-        font-family: 'Poppins', sans-serif;
 }
 
 header {
@@ -41,6 +40,7 @@ header .navegacao .pesquisa input {
 	height: 2.3em;
 	border-radius: 0.3em;
 	border: 0.1px solid #4B4B4B;
+        padding-left: 1em;
 }
 
 header .navegacao .pesquisa button {
